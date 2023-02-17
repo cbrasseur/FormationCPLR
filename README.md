@@ -1,4 +1,4 @@
 # FormationCPLR
-Arrive dans le fichier README.md
+- Arrive dans le fichier README.md
 
-Ajouter qqch
+- Ajouter qqch
